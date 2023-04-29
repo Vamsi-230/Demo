@@ -1,5 +1,9 @@
 class adding
 {
+	public void main(String[] args)
+	{
+		System.out.perintln(m1(2,3));
+      }
    public int m1(int a,int b)
    {
       return a+b;

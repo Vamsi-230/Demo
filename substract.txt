@@ -1,5 +1,10 @@
 class sub
 {
+public static void main(string[] args)
+{
+   int y=m1(2,3);
+  System.out.println(y);
+}
    public int m1(int a,int b)
    {
       return a-b;
